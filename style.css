@@ -1,0 +1,47 @@
+
+*{
+    font-family: 'Do Hyeon', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+body{
+    
+}
+.green-bg{
+    padding-top: 20px;
+    padding-bottom: 80px;
+    background-color: rgb(217, 245, 217);
+}
+
+   
+.logo{
+    width: 200px;
+}
+.main{
+    padding-top: 50px;
+}
+.card{
+
+    border: none;
+}
+.card-icon{
+    width: 70px;
+    height: 80px;
+
+}
+.card1{
+    height: 250px;
+    padding-top: 50px;
+    
+    background-color: rgb(221, 235, 230);
+}
+.bringle-color{
+    color: #413960;
+}
+.card1:hover{
+    background-color: white;
+    box-shadow: 0px 10px 15px lightgray;
+    
+}
+.icon-card2{
+    width: 25px;
+}
