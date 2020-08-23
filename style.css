@@ -65,3 +65,32 @@ body{
     padding-top: 8px;
     padding-left: 5px;
 }
+
+.man{
+    margin: 0px auto;
+    width: 70%;
+    
+
+}
+.man-image{
+    width: 150px;
+    
+
+}
+.pera{
+    padding-left: 50px;
+}
+.bottom-content{
+    background-color: rgb(9, 9, 51);
+    color: white;
+    margin-top: 100px;
+    padding: 50px 0px 0px 0px;
+
+}
+.bottom-link{
+    width: 80%;
+    margin: 0px auto;
+}
+.end{
+    padding: 20px 0px 20px 0px;
+}
